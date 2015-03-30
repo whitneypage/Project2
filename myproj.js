@@ -1,2 +1,2 @@
 var myName = 'Page';
-var home = 'Tx';
+var home = 'Emory';
